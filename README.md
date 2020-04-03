@@ -11,3 +11,15 @@
 *****T17-2-Create ANN using Weight Initialization Tricks-3 hidden layers
 
 *****T17-3-Create ANN using Weight Initialization Tricks-3 hidden layers and Dropout
+
+#Credit Card Fraud Detection Project
+
+The objective of this project is to design a Neural Network Model to identify if a particular transaction is a fraudulent or not.
+
+*******Credit Card Fraud Detection-1-Deep Learning + Sampling
+
+*******Credit Card Fraud Detection-2-Decision trees
+
+*******Credit Card Fraud Detection-3-Random Forest
+
+
